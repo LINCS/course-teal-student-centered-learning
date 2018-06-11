@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="134" contextid="430" version="2013110500">
+  <blockname>html</blockname>
+  <parentcontextid>173</parentcontextid>
+  <showinsubcontexts>1</showinsubcontexts>
+  <pagetypepattern>*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-pre</defaultregion>
+  <defaultweight>0</defaultweight>
+  <configdata>Tzo4OiJzdGRDbGFzcyI6Mzp7czo1OiJ0aXRsZSI7czo0OiJIZWxwIjtzOjY6ImZvcm1hdCI7czoxOiIxIjtzOjQ6InRleHQiO3M6NTQzOiI8ZGl2IGNsYXNzPSJjb250ZW50Ij4NCjxkaXYgY2xhc3M9Im5vLW92ZXJmbG93Ij4NCjxwPlVzZSB0aGUgPGVtPlF1ZXN0aW9uIGFuZCBBbnN3ZXI8L2VtPjxzdHJvbmc+IGRpc2N1c3Npb24gZm9ydW08L3N0cm9uZz4gdG8gYXNrIGdlbmVyYWwgcXVlc3Rpb25zIGFib3V0IHRoZSBjb3Vyc2UuwqAgWW91IGNhbiBhbHNvIGNvbnRhY3QgdGhlIGNvdXJzZSBmYWNpbGl0YXRvciBhdCA8YSBocmVmPSJtYWlsdG86Q09VUlNFRkFDSUxJVEFUT1JFTUFJTEBsaW5jcy5nb3YiPjxzcGFuIHN0eWxlPSJjb2xvcjogIzU1ODhiYjsiIGNvbG9yPSIjNTU4OGJiIj5FTUFJTEBsaW5jcy5nb3Y8L3NwYW4+PC9hPi48L3A+DQo8cD5Vc2UgdGhlIDxzdHJvbmc+UmVwb3J0IFRlY2huaWNhbCBJc3N1ZTwvc3Ryb25nPjxlbT4gPC9lbT48c3Ryb25nPmJ1dHRvbjwvc3Ryb25nPiBvbiB0aGUgdG9wIHJpZ2h0IG9mIHRoZSBzY3JlZW4gZm9yIHRlY2huaWNhbCBhc3Npc3RhbmNlIGZyb20gdGhlIExJTkNTIFRlY2huaWNhbCBTdXBwb3J0IFRlYW0uPC9wPg0KPC9kaXY+DQo8L2Rpdj4iO30=</configdata>
+  <block_positions>
+    <block_position id="13">
+      <contextid>173</contextid>
+      <pagetype>course-view-topics</pagetype>
+      <subpage></subpage>
+      <visible>1</visible>
+      <region>side-pre</region>
+      <weight>-1</weight>
+    </block_position>
+  </block_positions>
+</block>

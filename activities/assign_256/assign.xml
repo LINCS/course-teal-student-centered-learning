@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="13" moduleid="256" modulename="assign" contextid="465">
+  <assign id="13">
+    <name>Assignment #3: Explore Research on SCL and Relate it to Math Instruction</name>
+    <intro>&lt;h3&gt;&lt;span style="font-size: 13px; font-weight: normal; line-height: 1.231;"&gt;Explore the research behind student-centered learning and motivation and consider how you can apply what you learn to math instruction. Spend more time learning about student-centered learning with these three sources:&lt;/span&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;A NCSALL Focus on Basics publication:&lt;em&gt;&lt;a title="new website - opens in new window - The First Three Weeks: A Critical Time for Motivation" href="http://www.ncsall.net/index.php@id=420.html" target="_blank"&gt;The First Three Weeks: A Critical Time for Motivation&lt;/a&gt;&lt;/em&gt;, by B. Allan Quigley&lt;/li&gt;
+&lt;li&gt;Selected Readings from Jobs for the Future publication: &lt;a title="pdf - opens in new window - Motivation, Engagement, and Student Voice" href="@@PLUGINFILE@@/Pages%2023-34%20from%20MotivationEngagementStudentVoice.pdf" target="_blank"&gt;&lt;em&gt;Motivation, Engagement, and Student Voice&lt;/em&gt;&lt;span color="#0000ff"&gt; &lt;/span&gt;&lt;/a&gt;(pages 23-34): &lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;How Student Voice Can Elevate Motivation and Engagement&lt;/em&gt; (pages 23-29)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Why Student Voice is Student-Centered Learning&lt;/em&gt; (pages 30-32)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Conclusion&lt;/em&gt; (pages 33-34)  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;An excerpt from &lt;a title="PDF - opens in new window - More Complicated Than It Seems: A Review of Literature about Adult Numeracy Instruction" href="@@PLUGINFILE@@/Page%203-15%20from%20morecomp.pdf" target="_blank"&gt;&lt;i&gt;More Complicated Than It Seems: A Review of Literature about Adult Numeracy Instruction &lt;/i&gt;&lt;/a&gt;(pages 3-15), by Kate Nonesuch.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Write a one-page reflection of how you can put students at the center of math instruction and activities. (Click Add or Edit my submission)&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="EN" style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1519670028</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="188">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="189">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="190">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>3</value>
+      </plugin_config>
+      <plugin_config id="191">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="192">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="193">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="194">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1951">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1952">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

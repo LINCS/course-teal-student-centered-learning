@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="71" moduleid="270" modulename="label" contextid="479">
+  <label id="71">
+    <name>Tell us about your goals for participation in this...</name>
+    <intro>&lt;p&gt;&lt;span&gt;Tell us about your goals for participation in this course and your prior experience with &lt;abbr title="Student-centered learning"&gt;SCL&lt;/abbr&gt;.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1386144138</timemodified>
+  </label>
+</activity>

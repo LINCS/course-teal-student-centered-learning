@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="38" moduleid="232" modulename="page" contextid="441">
+  <page id="38">
+    <name>Background Readings</name>
+    <intro>&lt;p&gt;&lt;span style="font-family: verdana, arial, helvetica, sans-serif; font-size: small;"&gt;Read these articles when you start this course. These articles will provide background knowledge and a common vocabulary about SCL&lt;/span&gt;.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h3 style="text-align: left;"&gt;&lt;strong&gt;&lt;span&gt;General&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;The first reading is from the&lt;em&gt; NRC Report: Improving Adult Literacy Instruction: Options for Practice and Research.  &lt;/em&gt;Read pages 14 to 26, &lt;em&gt;&lt;a title="new website - opens in new window - Motivating Adult Learners to Persist" href="http://www.nap.edu/openbook.php?record_id=13469&amp;amp;page=14" target="_blank"&gt;&lt;strong&gt;Motivating Adult Learners to Persist&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;, which describes the best available research on learning and motivation and offers principles and practices for developing instruction for adults. Drawing from the full report is a booklet, &lt;em&gt;Supporting Learning and Motivation&lt;/em&gt;, which synthesizes the research and presents recommendations for practice in a user-friendly manner. You can download this booklet at the &lt;em&gt;&lt;a title="National Academies Press Website" href="http://www.nap.edu/openbook.php?record_id=13469&amp;amp;page=1" target="_blank"&gt;National Academies Press website&lt;/a&gt;&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;em&gt;&lt;a title="new website - opens in new window - Helping Adults Persist" href="http://www.ncsall.net/index.html@id=332.html" target="_blank"&gt;&lt;span&gt;Helping Adults Persist: Four Supports&lt;/span&gt;&lt;/a&gt;&lt;/em&gt; &lt;span&gt;by John Comings, Andrea Parrella, &amp;amp; Lisa Soricone&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;The second reading is a &lt;a title="PDF - opens in new window - TEAL Fact Sheet Student Centered" href="@@PLUGINFILE@@/6_TEAL_Student-Centered.pdf" target="_blank"&gt;&lt;em&gt;&lt;strong&gt;TEAL Center Fact No. 6 Sheet on Student Centered Learning&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt; It makes explicit how SCL applies to the adult education context. Bookmark this Fact Sheet for future reference and share with colleagues.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 style="text-align: left;"&gt;&lt;strong&gt;&lt;span&gt;Math&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;&lt;em&gt;&lt;a title="new website - opens in new window" href="http://www.ncsall.net/index.html@id=331.html" target="_blank"&gt;&lt;strong&gt;The Effects of Continuing Goal-setting on Persistence in a Math Classroom&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;Instructor Pam Meader describes a practitioner inquiry project she conducted with her adult math students to identify ways to reduce program-wide attrition.  Her data collection and analysis revealed obstacles and supports that influence student persistence in math classes, and which differ from those identified in studies of general adult basic education programming. &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;&lt;em&gt;&lt;strong&gt;&lt;a title="PDF - opens in new window" href="@@PLUGINFILE@@/mathman.pdf" target="_blank"&gt;Changing the Way We Teach Math&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;In these two chapters from her manual &lt;em&gt;Changing the Way We Teach Math&lt;/em&gt;, instructor Kate Nonesuch discusses resistance and emotions felt by both students and teachers, and how these affect student persistence in the math classroom. &lt;em&gt;Changing the Way We Teach Math: A Manual for Teaching Basic Math to Adults&lt;/em&gt;, pp.9-23&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;__________________________&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;&lt;strong&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>20</revision>
+    <timemodified>1472690429</timemodified>
+  </page>
+</activity>

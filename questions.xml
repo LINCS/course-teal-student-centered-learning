@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="18">
+    <name>Default for Self-Assessment</name>
+    <contextid>862</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>553</contextinstanceid>
+    <info>The default category for questions shared in context 'Self-Assessment'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+130926231226+aZllrI</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="19">
+    <name>Default for Student-Centered Learning</name>
+    <contextid>173</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>9</contextinstanceid>
+    <info>The default category for questions shared in context 'Student-Centered Learning'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+130926231226+e7rS7A</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="77">
+        <parent>0</parent>
+        <name>Low Self-esteem, Self-Efficacy or other?</name>
+        <questiontext>&lt;p&gt;A fifty-five year old home health aide who has a sixth-grade reading level is enrolled in an ABE course. One of her goals is to attend a community college to earn a degree in radiology technology. However, she is intimidated by the vocabulary she encounters when she tries to read health-related material.&lt;/p&gt;
+&lt;p&gt;This is an example of:&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926231536+kciDSC</stamp>
+        <version>ovae-moodle-dev.myquotient.net+130926231537+qrnKaO</version>
+        <hidden>0</hidden>
+        <timecreated>1380237336</timecreated>
+        <timemodified>1380237336</timemodified>
+        <createdby>14</createdby>
+        <modifiedby>14</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="160">
+              <answertext>&lt;p&gt;Low self-esteem&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="161">
+              <answertext>&lt;p&gt;Poorly selected reading material&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="162">
+              <answertext>&lt;p&gt;Low self-efficacy&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="163">
+              <answertext>&lt;p&gt;Lack of career goals&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="23">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;The correct answer is option c: Low self-efficacy.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;The correct answer is option c: Low self-efficacy.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="78">
+        <parent>0</parent>
+        <name>2.	A critically important feature of student-centered learning is that:</name>
+        <questiontext>&lt;p&gt;A critically important feature of student-centered learning is that:&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926231720+5YLNE1</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131204235855+CBaOLe</version>
+        <hidden>0</hidden>
+        <timecreated>1380237440</timecreated>
+        <timemodified>1386201535</timemodified>
+        <createdby>14</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="164">
+              <answertext>&lt;p&gt;The learner has just as important a role as the teacher in setting the instructional agenda.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="165">
+              <answertext>&lt;p&gt;The teacher relinquishes all responsibility for classroom activities to the students.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="166">
+              <answertext>&lt;p&gt;All students receive individualized instruction.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="167">
+              <answertext>&lt;p&gt;Students with learning disabilities work with the teacher to locate specially-designed material.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="24">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;The correct answer is option a: The learner has just as important a role as the teacher in setting the instructional agenda.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;The correct answer is option a: The learner has just as important a role as the teacher in setting the instructional agenda.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="79">
+        <parent>0</parent>
+        <name>3.	Which two of the following would probably not be motivating to most adult literacy students:</name>
+        <questiontext>&lt;p&gt;Which &lt;span style="text-decoration: underline;"&gt;two&lt;/span&gt; of the following would probably &lt;span style="text-decoration: underline;"&gt;not&lt;/span&gt; be motivating to most adult literacy students?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926232143+0v5nUa</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131205000043+9pnwgj</version>
+        <hidden>0</hidden>
+        <timecreated>1380237703</timecreated>
+        <timemodified>1386201643</timemodified>
+        <createdby>14</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="168">
+              <answertext>&lt;p&gt;Assigning essays on topics of situational interest.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="169">
+              <answertext>&lt;p&gt;Using text on highly familiar topics for reading instruction.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="170">
+              <answertext>&lt;p&gt;Ignoring stereotype threat, if it occurs in class.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="171">
+              <answertext>&lt;p&gt;Giving students generous payments for completing homework assignments.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="25">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Correct&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Ignoring stereotype threat, if it occurs in class and giving students generous payments for completing homework assignments would probably &lt;span style="text-decoration: underline;"&gt;not&lt;/span&gt; be motivating to most adult literacy students.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Ignoring stereotype threat, if it occurs in class and giving students generous payments for completing homework assignments would probably &lt;span style="text-decoration: underline;"&gt;not&lt;/span&gt; be motivating to most adult literacy students.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="80">
+        <parent>0</parent>
+        <name>4.	According to research, what is the most promising approach to reducing attrition in adult education classrooms:</name>
+        <questiontext>&lt;p&gt;According to research, what is the most promising approach to reducing attrition in adult education classrooms?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926232345+VH1Hlc</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131205000148+YzZQGA</version>
+        <hidden>0</hidden>
+        <timecreated>1380237825</timecreated>
+        <timemodified>1386201708</timemodified>
+        <createdby>14</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="172">
+              <answertext>&lt;p&gt;Instructors and counselors coordinate efforts and provide a high level of support to students.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="173">
+              <answertext>&lt;p&gt;Students receive individualized tutoring.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="174">
+              <answertext>&lt;p&gt;Intensive work is done to raise students’ self-esteem and self-efficacy.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="175">
+              <answertext>&lt;p&gt;Class size is reduced.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="26">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;The correct response is: class size is reduced.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;The correct response is: class size is reduced.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="81">
+        <parent>0</parent>
+        <name>5.	When using Quick Writes, it is a good idea for the teacher to:</name>
+        <questiontext>&lt;p&gt;When using Quick Writes, it is a good idea for the teacher to:&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926232531+Sebkng</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131205000248+wH5vwY</version>
+        <hidden>0</hidden>
+        <timecreated>1380237931</timecreated>
+        <timemodified>1386201767</timemodified>
+        <createdby>14</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="176">
+              <answertext>&lt;p&gt;Correct students’ spelling and grammatical errors.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="177">
+              <answertext>&lt;p&gt;Assign reading material on a new topic to develop background knowledge.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="178">
+              <answertext>&lt;p&gt;Ask students to write whatever comes to mind after the teacher has given a short talk on a new topic.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="179">
+              <answertext>&lt;p&gt;Give a score reflecting the quality of the student’s writing.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="27">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;The correct answer is: Ask students to write whatever comes to mind after the teacher has given a short talk on a new topic.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;The correct answer is: Ask students to write whatever comes to mind after the teacher has given a short talk on a new topic.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="82">
+        <parent>0</parent>
+        <name>A main advantage of using bio-poems to teach writing skills is:</name>
+        <questiontext>&lt;p&gt;When planning student-centered writing instruction, what should you keep in mind?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926232704+tFZP2T</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+180417135948+QltNE0</version>
+        <hidden>0</hidden>
+        <timecreated>1380238024</timecreated>
+        <timemodified>1523973588</timemodified>
+        <createdby>14</createdby>
+        <modifiedby>56</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="180">
+              <answertext>&lt;p&gt;What students know and are able to do.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="181">
+              <answertext>&lt;p&gt;Students’ education, employment, and training goals.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="182">
+              <answertext>&lt;p&gt;The skills and abilities represented in college and career readiness standards.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="183">
+              <answertext>&lt;p&gt;The College and Career Readiness Standards for English Language Arts and Literacy.  &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="217">
+              <answertext>&lt;p&gt;How to incorporate technology.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="218">
+              <answertext>&lt;p&gt;All of the above.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="28">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="83">
+        <parent>0</parent>
+        <name>Which of the following does not illustrate an NRC Design Principle?</name>
+        <questiontext>&lt;p&gt;What are the results of teaching writing using a student-centered approach?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926232918+Le50mI</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+180417140013+CRWZFQ</version>
+        <hidden>0</hidden>
+        <timecreated>1380238158</timecreated>
+        <timemodified>1523973613</timemodified>
+        <createdby>14</createdby>
+        <modifiedby>56</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="184">
+              <answertext>&lt;p&gt;Your students’ persistence in class is reduced. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="185">
+              <answertext>&lt;p&gt;Your students become active learners.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="186">
+              <answertext>&lt;p&gt;Your students experience deeper learning and understanding.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="187">
+              <answertext>&lt;p&gt;You and your students experience increased boredom.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="219">
+              <answertext>&lt;p&gt;Your students become more responsible, accountable, and autonomous.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="220">
+              <answertext>&lt;p&gt;You and your students develop greater interdependence. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="221">
+              <answertext>&lt;p&gt;You and your students develop adversarial relationships.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="222">
+              <answertext>&lt;p&gt;You and your students develop mutual respect.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="223">
+              <answertext>&lt;p&gt;You encourage a reflective approach to learning.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.1666667</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="224">
+              <answertext>&lt;p&gt;Student input becomes less valued.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="29">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="84">
+        <parent>0</parent>
+        <name>The main difference between mastery and performance goals is that:</name>
+        <questiontext>&lt;p&gt;The main difference between mastery and performance goals is that:&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926233112+FHXFl6</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131205000519+0lAPBR</version>
+        <hidden>0</hidden>
+        <timecreated>1380238272</timecreated>
+        <timemodified>1386201919</timemodified>
+        <createdby>14</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="188">
+              <answertext>&lt;p&gt;The teacher sets mastery goals whereas the student sets performance goals.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="189">
+              <answertext>&lt;p&gt;There is no difference; they are basically the same.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="190">
+              <answertext>&lt;p&gt;When the student works towards a mastery goal, the yardstick is the student him- or herself, whereas performance goals involve comparison to other students.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="191">
+              <answertext>&lt;p&gt;When students work towards a performance goal, they compare their own current and past performance to decide if they are making progress.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="30">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;The correct answer is:When the student works towards a mastery goal, the yardstick is the student him- or herself, whereas performance goals involve comparison to other students.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;The correct answer is:When the student works towards a mastery goal, the yardstick is the student him- or herself, whereas performance goals involve comparison to other students.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="85">
+        <parent>0</parent>
+        <name>An evaluator would consider the following classroom student-centered:</name>
+        <questiontext>&lt;p&gt;Which of the following classrooms would an evaluator consider student-centered?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926233618+qpOS1l</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+180501212840+4e9koW</version>
+        <hidden>0</hidden>
+        <timecreated>1380238578</timecreated>
+        <timemodified>1525210120</timemodified>
+        <createdby>14</createdby>
+        <modifiedby>56</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="192">
+              <answertext>&lt;p&gt;The students, who do not yet have clear employment goals, use a published workbook with short passages on a variety of themes.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="193">
+              <answertext>&lt;p&gt;The students, who have a goal of employment in health care, use newspaper articles on hospital safety hazards in a reading comprehension lesson.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="194">
+              <answertext>&lt;p&gt;The students, who are preparing for the high school equivalency test, are asked to memorize a list of ten historical facts.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="195">
+              <answertext>&lt;p&gt;Students who cannot afford childcare bring their children to class.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="31">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;The correct answer is: The students, who have a goal of employment in health care, use newspaper articles on hospital safety hazards in a reading comprehension lesson.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;The correct answer is: The students, who have a goal of employment in health care, use newspaper articles on hospital safety hazards in a reading comprehension lesson.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="86">
+        <parent>0</parent>
+        <name>Central to all definitions of student-centered learning is the idea that:</name>
+        <questiontext>&lt;p&gt;Central to all definitions of student-centered learning is the idea that:&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+130926233823+AC4how</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131205001157+t2JPX5</version>
+        <hidden>0</hidden>
+        <timecreated>1380238703</timecreated>
+        <timemodified>1386202317</timemodified>
+        <createdby>14</createdby>
+        <modifiedby>20</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="196">
+              <answertext>&lt;p&gt;Power over classroom process is released by the teacher and given to the students.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="197">
+              <answertext>&lt;p&gt;Collaborative learning stimulates students’ learning.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="198">
+              <answertext>&lt;p&gt;Learning should be enjoyable, or students will not be motivated.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="199">
+              <answertext>&lt;p&gt;Classroom climate is improved when teachers have clear instructional goals.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="32">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;The correct answer is: Power over classroom process is released by the teacher and given to the students.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;The correct answer is: Power over classroom process is released by the teacher and given to the students.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="89">
+        <parent>0</parent>
+        <name>What might cause math anxiety in your students?</name>
+        <questiontext>&lt;p&gt;What might cause math anxiety in your students?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Math anxiety may be caused by: &lt;/p&gt;
+&lt;p&gt;Feeling a lack of control; Thinking there is no application of math concepts outside the classroom; Remembering other instances when they were learning math and they felt as if they were the only one in the room who didn’t understand; Finding the terminology to be foreign and difficult; Feeling like there is only one right answer and they can’t get it&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>essay</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+131213222547+yJ2hBJ</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131213222547+xhZ8Ko</version>
+        <hidden>0</hidden>
+        <timecreated>1386973547</timecreated>
+        <timemodified>1386973547</timemodified>
+        <createdby>14</createdby>
+        <modifiedby>14</modifiedby>
+        <plugin_qtype_essay_question>
+          <essay id="16">
+            <responseformat>editor</responseformat>
+            <responsefieldlines>15</responsefieldlines>
+            <attachments>0</attachments>
+            <graderinfo></graderinfo>
+            <graderinfoformat>1</graderinfoformat>
+            <responsetemplate></responsetemplate>
+            <responsetemplateformat>1</responsetemplateformat>
+          </essay>
+        </plugin_qtype_essay_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="90">
+        <parent>0</parent>
+        <name>Which of the following instructional practices reflect a student centered approach?</name>
+        <questiontext>&lt;p&gt;Which of the following instructional practices reflect a student centered approach?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+131213223252+tYO5ZA</stamp>
+        <version>ovae-moodle-dev.myquotient.net+131213223252+YK7Epk</version>
+        <hidden>0</hidden>
+        <timecreated>1386973972</timecreated>
+        <timemodified>1386973972</timemodified>
+        <createdby>14</createdby>
+        <modifiedby>14</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="209">
+              <answertext>&lt;p&gt;Build on current knowledge&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="210">
+              <answertext>&lt;p&gt;Uncover misconceptions &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="211">
+              <answertext>&lt;p&gt;Identify goals and make connections &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="212">
+              <answertext>&lt;p&gt;Ignore negative affective factors &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="213">
+              <answertext>&lt;p&gt;Present concrete, representational, abstract (C-R-A)&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="214">
+              <answertext>&lt;p&gt;Pace instruction so it is uniform for all students&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="215">
+              <answertext>&lt;p&gt;Use technology&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="216">
+              <answertext>&lt;p&gt;Make the work easy&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="33">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback></correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback></partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback></incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>0</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="24">
+    <name>Default for Self-Assessment</name>
+    <contextid>1074</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>730</contextinstanceid>
+    <info>The default category for questions shared in context 'Self-Assessment'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+130926231226+aZllrI</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

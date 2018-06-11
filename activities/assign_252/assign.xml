@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="12" moduleid="252" modulename="assign" contextid="461">
+  <assign id="12">
+    <name>Assignment #3: Explore Research on SCL and Relate it to Writing Instruction</name>
+    <intro>&lt;p&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;" size="3"&gt;&lt;span face="Calibri"&gt;Explore the research behind student-centered learning and motivation and consider how you can apply what you learn to writing instruction. Spend more time learning about student-centered learning with these two sources:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;"&gt;&lt;span size="3"&gt;&lt;span face="Calibri"&gt;A NCSALL Focus on Basics publication: &lt;em&gt;&lt;span style="font-size: small;"&gt;&lt;a title="The First Three Weeks: A Critical Time for Motivation" href="http://www.ncsall.net/index.php@id=420.html" target="_blank"&gt;&lt;span style="font-family: Verdana;" size="3" face="Verdana"&gt;The First Three Weeks: A Critical Time for Motivation&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;span size="3"&gt;&lt;span face="Calibri"&gt;, by B. Allan Quigley&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;"&gt;&lt;span size="3"&gt;&lt;span face="Calibri"&gt;Selected Readings from Jobs for the Future publication: &lt;span style="font-size: small;"&gt;&lt;a title="PDF - opens in new window  - Motivation, Engagement, and Student Voice" href="@@PLUGINFILE@@/Pages%20from%20MotivationEngagementStudentVoice_fullpage.pdf" target="_blank"&gt;&lt;span size="3"&gt;&lt;span style="font-family: Verdana;" face="Verdana"&gt;&lt;em&gt;Motivation, Engagement, and Student Voice&lt;/em&gt; (pages 23-34)&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;:  &lt;/span&gt;&lt;/span&gt;&lt;span size="3"&gt;&lt;span face="Calibri"&gt;&lt;em&gt;How Student Voice Can Elevate Motivation and Engagement&lt;/em&gt; (pages 23-29); &lt;em&gt;Why Student Voice is Student-Centered Learning&lt;/em&gt; (&lt;/span&gt;&lt;/span&gt;&lt;span size="3"&gt;&lt;span face="Calibri"&gt;pages 30-32); and &lt;em&gt;Conclusion&lt;/em&gt; (pages 33-34) &lt;/span&gt;&lt;/span&gt;&lt;span size="3" face="Calibri"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;"&gt;Write a one-page reflection of how you can put students at the center of writing instruction and activities. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;"&gt;Click below on "Add my submission" to submit your reflection &lt;span size="4" face="Trebuchet MS"&gt;or copy and paste your reflection into the online text box&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, arial, helvetica, sans-serif; font-size: x-small;"&gt;&lt;span lang="EN"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1472690910</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="76">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="77">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="78">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>3</value>
+      </plugin_config>
+      <plugin_config id="79">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="80">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="81">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="82">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1949">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1950">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

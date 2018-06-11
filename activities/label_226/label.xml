@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="56" moduleid="226" modulename="label" contextid="435">
+  <label id="56">
+    <name>Post a journal entry about your familiarity with S...</name>
+    <intro>&lt;p&gt;&lt;span size="1"&gt;Post a journal entry about your familiarity with SCL.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1386265524</timemodified>
+  </label>
+</activity>

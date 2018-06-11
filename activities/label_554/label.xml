@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="140" moduleid="554" modulename="label" contextid="863">
+  <label id="140">
+    <name>Answer these 10 questions to check whether you hav...</name>
+    <intro>&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Answer these 10 questions to check whether you have mastered the concepts and terminology of student-centered learning.  The correct answers are shown after you submit your responses.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1473981358</timemodified>
+  </label>
+</activity>

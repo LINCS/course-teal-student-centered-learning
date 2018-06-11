@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="37" moduleid="231" modulename="page" contextid="440">
+  <page id="37">
+    <name>Putting Students at the Center of the Learning (Video)</name>
+    <intro>&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;Studies on the effects of student-centered instruction point to its many benefits, such as increased student motivation for learning and greater satisfaction with educational programs (Maxwell, 1998; Slavin, 1990). In addition, research has shown that personal involvement, intrinsic motivation, personal commitment, confidence in one’s abilities to succeed, and a perception of control over learning lead to more learning and higher achievement in school (Alexander &amp;amp; Murphy, 2000). This suggests that adult education programs might consider incorporating some of the principles of student-centered learning into instruction. Watch this presentation on applying student-centered learning to the adult education setting.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;span&gt;Studies on the effects of student-centered instruction point to its many benefits, such as increased student motivation for learning and greater satisfaction with educational programs (Maxwell, 1998; Slavin, 1990). In addition, research has shown that personal involvement, intrinsic motivation, personal commitment, confidence in one’s abilities to succeed, and a perception of control over learning lead to more learning and higher achievement in school (Alexander &amp;amp; Murphy, 2000). This suggests that adult education programs might consider incorporating some of the principles of student-centered learning into instruction. Watch this presentation on applying student-centered learning to the adult education setting. &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;View the document "&lt;a href="@@PLUGINFILE@@/Characteristics%20of%20Student-Centered%20Learning.pdf" title="PDF - opens in new window" target="_blank"&gt;Characteristics of Student-Centered Learning&lt;/a&gt;" referenced in the presentation.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;- - -&lt;/span&gt;&lt;/p&gt;
+&lt;h3 style="text-align: left;"&gt;&lt;span&gt;Sources:&lt;/span&gt; &lt;/h3&gt;
+&lt;p style="text-align: left;"&gt;&lt;span face="Times New Roman"&gt;Alexander, P., &amp;amp; Murphy, P. (2000). The research base for APA's leaner-centered psychological principles. In N. Lambert, &amp;amp; B. McCombs (Eds.), How students learn (pp. 25-60). Washington, D.D.: American Psychological Association.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span face="Times New Roman"&gt;&lt;/span&gt;&lt;span face="Times New Roman"&gt;Maxwell, W. E. (1998). Supplemental instruction, learning communities and students studying together. Community College Review (Fall), retrieved December 20, 2005 from findarticles.com&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span face="Times New Roman"&gt;&lt;/span&gt;&lt;span face="Times New Roman"&gt;Slavin, R. E. (1990). Cooperative learning theory, research and practice. Needham Heights, MA: Allyn and Bacon.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="640" height="480"&gt;&lt;param name="movie" value="//www.youtube.com/v/vUPOKqBsTrU?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed src="https://www.youtube.com/v/vUPOKqBsTrU?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt; [&lt;a title="PDF - Opens in new window - Transcript Helping Learners Become Self-Regulated" href="@@PLUGINFILE@@/Student_Centered_Learning%202Feb2013.pdf" target="_blank"&gt;&lt;span color="#0000ff"&gt;Transcript of Presentation&lt;/span&gt;&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: x-small; font-family: arial, helvetica, sans-serif;"&gt;[The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update Adobe Flash Player by downloading it here: &lt;a href="https://get.adobe.com/flashplayer/" title="Adobe Flash Player" target="_blank"&gt;https://get.adobe.com/flashplayer/&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>28</revision>
+    <timemodified>1523908926</timemodified>
+  </page>
+</activity>

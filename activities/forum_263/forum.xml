@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="52" moduleid="263" modulename="forum" contextid="472">
+  <forum id="52">
+    <type>general</type>
+    <name>Summary Forum: Writing</name>
+    <intro>&lt;div style="text-align: left;"&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;"&gt;How can &lt;span class="nolink"&gt;SCL&lt;/span&gt; help us improve writing instruction? &lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;"&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;"&gt;Click below on "Add a new discussion topic" to add your own reflections to this &lt;span class="nolink"&gt;Summary Forum&lt;/span&gt;.&lt;/span&gt;&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>3</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>1</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1472691284</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+  </forum>
+</activity>

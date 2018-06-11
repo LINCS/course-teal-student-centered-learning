@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="57" moduleid="272" modulename="forum" contextid="482">
+  <forum id="57">
+    <type>general</type>
+    <name>What Do We Know about Learner Motivation and Persistence?</name>
+    <intro>&lt;p&gt;&lt;span&gt;This is a three-part activty. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;First, &lt;a title="New website - opens new window - Video: Carol Dweck's Theory of Motivation" href="http://www.teacherstoolbox.co.uk/Dweck_Motivation.html" target="_blank"&gt;view&lt;/a&gt; the 2-minute video clip describing Carol Dweck's theory of motivation. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Second, complete the &lt;a title="pdf - opens in new window - Dweck's Two Types of Students" href="@@PLUGINFILE@@/Two%20Types%20of%20Students%20Dwecks%20Theory%20of%20Motivation.pdf" target="_blank"&gt;reading&lt;/a&gt; on the two types of students that Dweck describes. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;After you've viewed the video and read the article, click below on "Add a new discussion topic" to post your ideas to this discussion forum about how teachers can persuade students that they can be successful, that they have potential that can be tapped if they put effort into learning.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>0</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1472690495</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+  </forum>
+</activity>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="54" moduleid="268" modulename="forum" contextid="477">
+  <forum id="54">
+    <type>general</type>
+    <name>Influential Academic Learning Experiences</name>
+    <intro>&lt;p&gt;&lt;span style="font-family: verdana, arial, helvetica, sans-serif; font-size: small;"&gt;&lt;span face="Calibri"&gt;&lt;span size="3"&gt;What were your best and your worst learning experiences and what was the difference between the two? What was it like when you took a course with content that seemed difficult to learn/master? How did you learn the course content?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana, arial, helvetica, sans-serif; font-size: small;"&gt;&lt;span face="Calibri"&gt;&lt;span size="3"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-family: verdana, arial, helvetica, sans-serif; font-size: small;" size="3"&gt;&lt;span face="Calibri"&gt;Click below on "Add a new discussion topic" to share your responses to these questions.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>0</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1472690270</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+  </forum>
+</activity>
