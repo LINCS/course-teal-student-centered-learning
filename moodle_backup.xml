@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <moodle_backup>
   <information>
-    <name>backup-moodle2-course-9-student-centered_learning-20180611-1738-nu.mbz</name>
+    <name>backup-moodle2-course-9-student-centered_learning-20181107-1747-nu.mbz</name>
     <moodle_version>2013111811.01</moodle_version>
     <moodle_release>2.6.11+ (Build: 20150619)</moodle_release>
     <backup_version>2013111800</backup_version>
     <backup_release>2.6</backup_release>
-    <backup_date>1528753105</backup_date>
+    <backup_date>1541630840</backup_date>
     <mnet_remoteusers>0</mnet_remoteusers>
     <include_files>1</include_files>
     <include_file_references_to_external_content>1</include_file_references_to_external_content>
@@ -19,7 +19,7 @@
     <original_course_contextid>173</original_course_contextid>
     <original_system_contextid>1</original_system_contextid>
     <details>
-      <detail backup_id="e2b8d085bf9559bbc23aabfe337449b3">
+      <detail backup_id="81f478706ed67d51a6442ec2ac043aa1">
         <type>course</type>
         <format>moodle2</format>
         <interactive>1</interactive>
@@ -278,25 +278,25 @@ If you have not taken other LINCS Moodle courses...</title>
           <directory>activities/assign_256</directory>
         </activity>
         <activity>
-          <moduleid>259</moduleid>
-          <sectionid>93</sectionid>
-          <modulename>journal</modulename>
-          <title>Set a personal teaching goal for creating a student-centered learning environment</title>
-          <directory>activities/journal_259</directory>
-        </activity>
-        <activity>
           <moduleid>260</moduleid>
           <sectionid>93</sectionid>
           <modulename>label</modulename>
-          <title>Remember that your goal statements need to be spec...</title>
+          <title>Goal statements need to be specific enough to ensu...</title>
           <directory>activities/label_260</directory>
         </activity>
         <activity>
           <moduleid>261</moduleid>
           <sectionid>93</sectionid>
           <modulename>page</modulename>
-          <title>Steps to refine your goals statements</title>
+          <title>Steps to refine your goal statements</title>
           <directory>activities/page_261</directory>
+        </activity>
+        <activity>
+          <moduleid>259</moduleid>
+          <sectionid>93</sectionid>
+          <modulename>journal</modulename>
+          <title>Set a personal teaching goal for creating a student-centered learning environment</title>
+          <directory>activities/journal_259</directory>
         </activity>
         <activity>
           <moduleid>265</moduleid>
@@ -422,7 +422,7 @@ If you have not taken other LINCS Moodle courses...</title>
       <setting>
         <level>root</level>
         <name>filename</name>
-        <value>backup-moodle2-course-9-student-centered_learning-20180611-1738-nu.mbz</value>
+        <value>backup-moodle2-course-9-student-centered_learning-20181107-1747-nu.mbz</value>
       </setting>
       <setting>
         <level>root</level>
@@ -988,18 +988,6 @@ If you have not taken other LINCS Moodle courses...</title>
       </setting>
       <setting>
         <level>activity</level>
-        <activity>journal_259</activity>
-        <name>journal_259_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>journal_259</activity>
-        <name>journal_259_userinfo</name>
-        <value>0</value>
-      </setting>
-      <setting>
-        <level>activity</level>
         <activity>label_260</activity>
         <name>label_260_included</name>
         <value>1</value>
@@ -1020,6 +1008,18 @@ If you have not taken other LINCS Moodle courses...</title>
         <level>activity</level>
         <activity>page_261</activity>
         <name>page_261_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>journal_259</activity>
+        <name>journal_259_included</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>journal_259</activity>
+        <name>journal_259_userinfo</name>
         <value>0</value>
       </setting>
       <setting>
